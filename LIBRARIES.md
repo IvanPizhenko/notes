@@ -5,3 +5,6 @@
 - [PLF library - mostly specialized container](https://plflib.org/)
 - [Google Abseil](https://abseil.io/)
 - [Facebook/Meta Folly](https://github.com/facebook/folly)
+- [Tessil - interesting data structures](https://github.com/Tessil)
+- ....
+- 
