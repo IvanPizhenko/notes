@@ -1,7 +1,9 @@
 # Libraries
 
 - [Boost](https://boost.org)
-- [PCG Random Generator](https://github.com/imneme/pcg-cpp)
+- PCG Random Generator
+  - [website](https://www.pcg-random.org/download.html)
+  - [C++ implementation](https://github.com/imneme/pcg-cpp)
 - [PLF library - various specialized containers](https://plflib.org/)
 - [Google Abseil](https://abseil.io/)
 - [Facebook/Meta Folly](https://github.com/facebook/folly)
