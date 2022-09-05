@@ -3,6 +3,7 @@
 - [Boost](https://boost.org)
 - PCG Random Generator
   - [website](https://www.pcg-random.org/download.html)
+  - [C minimal](https://github.com/imneme/pcg-c-basic)
   - [C++ implementation](https://github.com/imneme/pcg-cpp)
 - [PLF library - various specialized containers](https://plflib.org/)
 - [Google Abseil](https://abseil.io/)
