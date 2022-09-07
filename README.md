@@ -1,2 +1,2 @@
-# cpputils
-Some C++ utilities
+# notes
+Some public available notes
